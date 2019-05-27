@@ -60,6 +60,7 @@ JSONView
 Surfingkeys
 Pocket
 
+
 zookeeper
 Apollo
 
@@ -77,3 +78,11 @@ studio 3t
 sourcetree
 
 keepingyouawake
+
+keycastr
+
+cheatsheet
+vlc
+ipic mover
+typora
+appcleaner
